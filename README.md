@@ -8,11 +8,11 @@ The project is designed for real-world financial analysis, simulating how analys
 
 The analysis answers three key financial questions:
 
-Profit & Loss Summary
+1. Profit & Loss Summary
 
-Is the business making a profit or a loss?
+2. Is the business making a profit or a loss?
 
-How much total income and expenses were recorded?
+3. How much total income and expenses were recorded?
 
 Expense Categorization
 
