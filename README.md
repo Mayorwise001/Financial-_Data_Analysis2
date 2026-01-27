@@ -10,17 +10,16 @@ The analysis answers three key financial questions:
 
 1. Profit & Loss Summary
 
-2. Is the business making a profit or a loss?
+Is the business making a profit or a loss?
+How much total income and expenses were recorded?
 
-3. How much total income and expenses were recorded?
-
-Expense Categorization
+2. Expense Categorization
 
 Which expense categories consume the most money?
 
 Where can cost optimization be applied?
 
-Cash Flow Trends
+3. Cash Flow Trends
 
 Is cash flow improving or declining over time?
 
