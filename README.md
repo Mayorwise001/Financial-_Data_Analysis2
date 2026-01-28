@@ -128,13 +128,13 @@ ORDER BY month;
 
 The analysis is visualized using three interactive Power BI report pages:
 
-## 📄 Page 1: Profit & Loss Summary
+## 📄 Profit & Loss Summary
 
 KPI Cards: Total Income, Total Expenses, Profit/Loss
 
 Income vs Expense comparison chart
 
-## 📄 Page 2: Expense Breakdown
+## 📄 Expense Breakdown
 
 Donut chart showing expense distribution
 
@@ -142,7 +142,7 @@ Bar chart highlighting highest expense categories
 
 Detailed expense table
 
-## 📄 Page 3: Cash Flow Trends
+## 📄 Cash Flow Trends
 
 Line chart showing monthly net cash flow
 
